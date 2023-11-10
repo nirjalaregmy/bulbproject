@@ -1,0 +1,29 @@
+#buldiv {
+  margin-top: 100px;
+}
+
+#buttondiv {
+  margin-top: 40px;
+}
+
+#btn_on {
+  margin-right: 40px;
+  background-color: green;
+}
+
+#btn_off {
+  margin-right: 40px;
+  background-color: red;
+}
+
+#btn_tuggle {
+  margin-right: 40px;
+  background-color: yellow;
+}
+
+.my_btn {
+  height: 50px;
+  width: 100px;
+  font-size: 25px;
+  color: white;
+}
