@@ -16,3 +16,7 @@ function handleToggle() {
     document.getElementById("bulbimage").src = "pic_bulboff.gif";
   }
 }
+
+function nochange() {
+  alert("no change");
+}
